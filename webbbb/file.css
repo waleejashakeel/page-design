@@ -114,7 +114,9 @@
 .container3 {
     background-color: white;
     width: 80%;
-    height: auto;
+    height: 100px;
+    margin-bottom: 0%;
+
 }
 
 .left3 p {
