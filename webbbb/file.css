@@ -8,7 +8,7 @@
 .container {
     background-color: white;
     height: 230px;
-    width: 80%;
+    width: auto;
     margin: 0px;
     display: flex;
     flex-direction: row;
@@ -21,10 +21,11 @@
 }
 
 .left img {
-    width: 200px;
+    width: 250px;
     height: 120px;
-    padding-left: 28%;
+    align-items: center;
     margin-top: 2%;
+
 
 }
 
@@ -55,7 +56,7 @@
 
 .logo11 {
     padding-top: 50px;
-    padding-left: 7%;
+    padding-left: 9%;
 }
 
 .logo22 {
@@ -68,7 +69,7 @@
     display: flex;
     flex-direction: row;
     margin-left: 0%;
-    width: 50%;
+    width: 40%;
 }
 
 
