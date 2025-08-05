@@ -3,16 +3,18 @@
     font-family: Arial, sans-serif;
     width: aut0;
     height: auto;
+
 }
 
 .container {
     background-color: white;
     height: 230px;
     width: auto;
-    margin: 0px;
+    margin-top: 6%;
     display: flex;
     flex-direction: row;
-    margin: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .left {
@@ -31,7 +33,7 @@
 
 .left h1 {
     color: black;
-    padding-left: 13%;
+    padding-left: 3%;
     font-size: 12px;
     padding-top: 0%;
     margin: 0%;
@@ -42,7 +44,7 @@
 .left p1 {
     color: gray;
     font-size: 13px;
-    padding-left: 31%;
+    padding-left: 23%;
     padding-top: 0px;
     margin-top: 1%;
     word-spacing: 5%;
@@ -56,12 +58,13 @@
 
 .logo11 {
     padding-top: 50px;
-    padding-left: 9%;
+    padding-left: 4%;
 }
 
 .logo22 {
     padding-top: 50px;
-    padding-left: 1%;
+    padding-left: 1px;
+    ;
 }
 
 .right {
@@ -86,14 +89,15 @@
     background-color: white;
     width: 80%;
     height: auto;
-    margin-top: 0%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 0%;
 
 }
 
 .left2 {
-    padding-left: 5%;
+    padding-left: 0%;
     padding-top: 0%;
     display: flex;
     background-color: white;
@@ -116,29 +120,32 @@
     width: 80%;
     height: 100px;
     margin-bottom: 0%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
 
 }
 
 .left3 p {
-    padding-left: 180px;
+    padding-left: 160px;
     padding-top: 25%;
     color: black;
 }
 
 .left3 p1 {
-    padding-left: 152px;
+    padding-left: 140px;
     margin-top: 1%;
     color: gray;
 }
 
 .left3 p2 {
-    padding-left: 130px;
+    padding-left: 120px;
     margin-top: 1%;
     color: gray;
 }
 
 .left3 p3 {
-    padding-left: 154px;
+    padding-left: 142px;
     margin-top: 1%;
     color: gray;
 }
@@ -150,18 +157,20 @@
 }
 
 .right3 img {
-    padding-left: 10%;
+    padding-left: 2%;
 }
 
 .container4 {
     margin-top: 0%;
     background-color: white;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 0%;
 }
 
 .left4 {
     background-color: white;
+    padding-top: 0%;
 }
 
 .right4 {
