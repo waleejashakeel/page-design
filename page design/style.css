@@ -8,13 +8,13 @@
 
 .container {
     background-color: white;
-    height: 230px;
+    height: 450px;
     width: auto;
-    margin-top: 6%;
     display: flex;
     flex-direction: row;
-    margin-left: 15%;
-    margin-right: 15%;
+
+
+
 }
 
 .left {
@@ -23,90 +23,83 @@
 }
 
 .left img {
-    width: 250px;
-    height: 120px;
+    width: 80%;
+    height: 90%;
     align-items: center;
-    margin-top: 2%;
+    margin-top: 18%;
 
 
 }
 
 .left h1 {
     color: black;
-    padding-left: 3%;
-    font-size: 12px;
+    padding-left: 21%;
+    font-size: 17px;
     padding-top: 0%;
     margin: 0%;
-    word-spacing: 3px;
+    word-spacing: 17px;
     letter-spacing: 4px;
 }
 
-.left p1 {
+.left p {
     color: gray;
-    font-size: 13px;
-    padding-left: 23%;
+    font-size: 14px;
+    padding-left: 24%;
     padding-top: 0px;
     margin-top: 1%;
-    word-spacing: 5%;
-    letter-spacing: 2%;
+    word-spacing: 1px;
+    letter-spacing: 2px;
     margin: 0%;
 }
 
-.logo {
-    display: flex;
-}
 
-.logo11 {
-    padding-top: 50px;
-    padding-left: 4%;
-}
-
-.logo22 {
-    padding-top: 50px;
-    padding-left: 1px;
-    ;
-}
 
 .right {
     background-color: white;
     display: flex;
     flex-direction: row;
     margin-left: 0%;
-    width: 40%;
+    width: 50%;
+    height: auto;
 }
 
 
 
 .right img {
     display: flex;
-    padding-top: 0%;
-    padding-left: 0%;
-    margin-left: 0%;
+    padding-top: 7%;
+    padding-left: 0px;
 
 }
 
 .container2 {
     background-color: white;
-    width: 80%;
+    width: auto;
     height: auto;
-    margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-bottom: 0%;
+    margin-top: 1%;
 
 }
 
 .left2 {
-    padding-left: 0%;
     padding-top: 0%;
     display: flex;
     background-color: white;
-    width: 40%;
+    width: 50%;
+}
+
+.left2 img {
+    padding-left: 18%;
 }
 
 .left2 p {
     display: flex;
     flex-direction: column;
+}
+
+.right2 {
+    background-color: white;
+    height: auto;
+    width: 50%;
 }
 
 .right2 h2 {
@@ -117,13 +110,14 @@
 
 .container3 {
     background-color: white;
-    width: 80%;
+    width: 100%;
     height: 100px;
-    margin-bottom: 0%;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 3%;
 
+}
+
+.left3 {
+    background-color: white;
+    padding-left: 0%;
 }
 
 .left3 p {
@@ -163,18 +157,22 @@
 .container4 {
     margin-top: 0%;
     background-color: white;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-bottom: 0%;
 }
 
 .left4 {
     background-color: white;
     padding-top: 0%;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+
+.left4 img {
+    padding-left: 16%;
 }
 
 .right4 {
     background-color: white;
+
 }
 
 
@@ -185,7 +183,7 @@
 }
 
 .right4 h1 {
-    padding-left: 27%;
+    padding-left: 23%;
     padding-top: 15%;
 }
 
